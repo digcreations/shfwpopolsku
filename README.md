@@ -10,7 +10,6 @@ Do zainstalowania SHFW potrzebujesz aplikacji Scooter Hacking Utility, którą m
 # Upewnij się, że twoja wersja BLE nie przekracza 1.5.5 
 Jeżeli twoja wersja BLE jest wyższa niż 1.5.5, lub na ekranie pokazuje się "Restricted BLE Firmware Detected" Musisz zrobić downgrade BLE ST-Linkiem V2
 Wszelakie informacje oraz poradnik znajdziesz na tym filmie: https://www.youtube.com/watch?v=IvQ4oT2u_vg
-*mozesz też zobaczyć schematy podłączenia w folderze "diagrams".
 
 #  Jak zainstalować shfw? 
 Gdy się upewniłeś, że twoja wersja BLE jest niższa niz 1.5.5, możesz zacząć flashować oprogramowanie SHFW. 
