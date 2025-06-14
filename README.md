@@ -31,7 +31,7 @@ Możesz użyc tych, co podałem na dole:
 
 
 
-#### Xiaomi Mi Pro 2 
+#### $${\color{red}Xiaomi Mi Pro 2 }$$
 -Throttle
 Tryb Sport, Speed-based
 Power limit 20-25A 
@@ -64,8 +64,7 @@ W motor settings ustawiamy Motor PWM frequency na 20kHz.
 
 
 
-#### Xiaomi Essential, Lite, 1S 
-
+#### $${\color{red}Xiaomi Essential, Lite, 1S}$$ 
 Sport mode, DPC, 18A, fully quadratic (1.0).
 Acceleration boost  50%.
 Brake 30A, flat (0.0), jeżeli twój hamulec jest za słaby, podkręć brake boost setting. 
@@ -81,8 +80,7 @@ W motor settings ustawiamy PWM Frequency na 20 kHz
 
 
 
-#### Ninebot EsX, Ex
-
+#### $${\color{red}Ninebot EsX, Ex}$$ 
 Sport mode, DPC, 18A, fully quadratic (1.0).
 Acceleration boost, 50%.
 Brake, 55A flat (0.0)
