@@ -88,3 +88,7 @@ Overmodulation dla sportu
 
 Field Weakening
 15 km/h, 0A, 1500.
+
+
+
+#### !!! Pamiętaj że im wyższe ustawienia, tym szybciej hulajnoga bedzię się rozładowywać i przegrzewać !!!
