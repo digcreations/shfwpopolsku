@@ -97,15 +97,40 @@ W motor settings ustawiamy PWM Frequency na 20 kHz
 * Sport mode, DPC, 18A, fully quadratic (1.0).
 * Acceleration boost, 50%.
 * Brake, 50A flat (0.0)
-* Overmodulation dla sportu 
+* Overmodulation dla sportu
+  
 
 
 Field Weakening
 * 15 km/h, 0A, 1500.
+
+#### $${\color{red}Ninebot G30}$$ 
+* Sport mode, DPC, AUTO CURVE 25A, 0.5 quadratic (możesz zmienić na 30A, chociaż niektórzy zgłaszali, ze kable od baterii i motoru się topią, więc rób to na swoją odpowiedzialność!)
+* Acceleration boost 50%
+* Brake boost *35% *zależy jak (chcesz)
+* Motor PWM Overmodulation włączony dla trybu Sport
+
+ W zakładce Field Weakening:
+
+ 20km/h, 0A, 1200/600mA (jeżeli chcesz więcej zasięgu, ustaw na 600mA)
+
+ #### $${\color{red}Ninebot G2, F2}$$
+
+ * Sport mode, DPC, 25A, AUTO CURVE, 0.5 quadratic
+ * Aceleration boost 40-70%
+ * Brake overshoot current 45A
+
+   W zakładce Field Weakening
+
+   20km/h, 0A, 1200/600mA 
+
+
+
+
 
 (te ustawienią możesz użyc by osiągnąć maksymalną prędkość tej oto danej hulajnogi, jeżeli tego nie chcesz, mozesz zmienić ustawienia throttle i field weakening)
 
 
 
 #### !!! Pamiętaj że im wyższe ustawienia, tym szybciej hulajnoga bedzię się rozładowywać i przegrzewać !!!
-Za niedługo pojawi się więcej hulajnóg... 
+
