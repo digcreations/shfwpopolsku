@@ -1,5 +1,18 @@
+
 # SHFW Po Polsku
 SHFW Po polsku to poradnik jak zainstalować oprogramowanie SHFW (Scooter Hacking Firmware) oraz jak zrobić downgrade wersji BLE używając programatora STM8 i STM32 ST-Link V2.
+
+
+
+
+# Wspierane hulajnogi elektryczne
+Wspierane hulajnogi elektryczne:
+* Xiaomi [Mi Essential, 1S, Pro, Pro 2, Mi 3, M365]
+* Ninebot [ESx, G30, G2, F2, F2plus, F2pro, Exx, F-series,]
+  
+
+
+
 
 # Co potrzebuje? 
 Do zainstalowania SHFW potrzebujesz aplikacji Scooter Hacking Utility, którą możesz pobrac na Google Play lub plik APK na stronie https://utility.cfw.sh/ 
@@ -64,7 +77,7 @@ W motor settings ustawiamy Motor PWM frequency na 20kHz.
 
 
 
-#### $${\color{red}Xiaomi Essential, Lite, 1S}$$ 
+#### $${\color{red}Essential, Lite, 1S}$$ 
 * Sport mode, DPC, 18A, fully quadratic (1.0).
 * Acceleration boost  50%.
 * Brake 30A, flat (0.0), jeżeli twój hamulec jest za słaby, podkręć brake boost setting. 
@@ -89,6 +102,8 @@ W motor settings ustawiamy PWM Frequency na 20 kHz
 
 Field Weakening
 * 15 km/h, 0A, 1500.
+
+(te ustawienią możesz użyc by osiągnąć maksymalną prędkość tej oto danej hulajnogi, jeżeli tego nie chcesz, mozesz zmienić ustawienia throttle i field weakening)
 
 
 
