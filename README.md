@@ -74,6 +74,7 @@ Variable Field current
 
 W motor settings ustawiamy Motor PWM frequency na 20kHz.
 
+Jeżeli chcesz żeby licznik był zrównany z gps'em, w motor settings ustaw wheel size na 8.0 . 
 
 
 
@@ -91,6 +92,7 @@ Włączamy dla Sport.
 
 W motor settings ustawiamy PWM Frequency na 20 kHz
 
+Jeżeli chcesz żeby licznik był zrównany z gps'em, w motor settings ustaw wheel size na 8.0 . 
 
 
 #### $${\color{red}Ninebot EsX, Ex}$$ 
